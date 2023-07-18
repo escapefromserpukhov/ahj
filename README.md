@@ -1,1 +1,1 @@
-![CI](https://github.com/<escapefromserpukhov>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/<escapefromserpukhov>/<ahj>/actions/workflows/web.yml/badge.svg)
